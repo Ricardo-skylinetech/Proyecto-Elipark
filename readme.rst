@@ -2,17 +2,10 @@
 Elipark
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Esta plataforma está diseñada para que nuestros colaboradores en los proyectos puedan compartir su información de manera sencilla optimizada desde un ambiente web en cualquier momento y de cualquier lugar, compartir sus ventas día a día integrando archivos PDF como soportes y/o evidencias, así como sus reportes que nos solicitan nuestros clientes.
 
 *******************
 Release Information
 *******************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Realizado en PHP CodeIgniter
